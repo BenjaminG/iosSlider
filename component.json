@@ -1,6 +1,6 @@
 {
 	"name": "iosSlider",
-	"version": "1.2",
+	"version": "1.2.0",
 	"main": "./_src/jquery.iosslider.min.js",
 	"dependencies": {
 		"jquery": ">=1.4"
